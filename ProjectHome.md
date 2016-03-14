@@ -1,0 +1,1 @@
+Platform designed to be abstract. It is a starting ground for other projects. It enables you to create pages and designs quickly. Not just pages, but it provides the infrastructure for web based applications.
